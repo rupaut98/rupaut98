@@ -43,8 +43,8 @@
 <br>
 
 ## GitHub Stats 📊
-[![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakraut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupakraut&theme=tokyonight)](https://git.io/streak-stats)
+[![Rupak's GitHub stats](https://github-readme-stats-nine-fawn-14.vercel.app/api?username=rupakraut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-stats-nine-fawn-14.vercel.app/?user=rupakraut&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
 

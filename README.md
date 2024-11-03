@@ -43,8 +43,8 @@
 <br>
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=rupakraut&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rupakraut&theme=great-gatsby&hide_border=false)<br/>
+![(https://github-readme-stats.vercel.app/api?username=rupaut98)]<br/>
+![](https://github.com/rupaut98/github-readme-stats)<br/>
 
 <br>
 

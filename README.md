@@ -1,4 +1,4 @@
-# Hi there, I'm Rupak Raut 👋
+  # Hi there, I'm Rupak Raut 👋
 
 ## About Me 🚀
 
@@ -42,9 +42,7 @@
 
 <br>
 
-## GitHub Stats 📊
-[![Rupak's GitHub stats](https://github-readme-stats-nine-fawn-14.vercel.app/api?username=rupakraut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](https://github-readme-stats-nine-fawn-14.vercel.app/?user=rupakraut&theme=tokyonight)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-nine-fawn-14.vercel.app/api?username=rupaut98)](https://github.com/rupaut98/github-readme-stats)
 
 <br>
 

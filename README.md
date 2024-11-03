@@ -42,7 +42,9 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats-nine-fawn-14.vercel.app/api?username=rupaut98)](https://github.com/rupaut98/github-readme-stats)
+## GitHub Stats 📊
+
+[![Rupak's GitHub stats](https://github-readme-stats-mdsz.vercel.app/api?username=rupaut98&show_icons=true&theme=tokyonight)](https://github.com/rupaut98/github-readme-stats)
 
 <br>
 

@@ -43,11 +43,10 @@
 <br>
 
 ## GitHub Stats 📊
-![(https://github-readme-stats.vercel.app/api?username=rupaut98)]<br/>
-![](https://github.com/rupaut98/github-readme-stats)<br/>
+[![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupakraut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupakraut&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rupakraut&icon=2&color=12)](https://visitcount.itsvg.in)

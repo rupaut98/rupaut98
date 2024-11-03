@@ -48,10 +48,6 @@
 
 <br>
 
-## Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rupakraut&icon=2&color=12)](https://visitcount.itsvg.in)

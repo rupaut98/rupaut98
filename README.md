@@ -20,7 +20,7 @@
 
 **Software Engineer @ IllumibotAI** — AI-powered video platform with multi-provider AI integrations and Flutter SDK.
 
-Previously **Founding Engineer @ OmniSynkAI** — E-commerce automation with LLM-driven decision making.
+Previously **Founding Engineer @ OmniSynkAI** — E-commerce automation with LLM-driven decision making. Top 10% YC applicant, Google for Startups Cloud, Microsoft for Startups.
 
 ---
 
